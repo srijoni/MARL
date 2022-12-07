@@ -1,0 +1,47 @@
+0,project_id,cost,category,votes,name,target,selected
+1,244,72500,"environmental protection,public space",3068,Kolejne 50 drzew dla Ursynowa,adults,1
+2,174,490000,"environmental protection,public space,urban greenery",2874,Zielona Oś Ursynowa - stwórzmy nowy park!,"adults,seniors,families with children",1
+3,2082,15500,public space,2440,Dodatkowe polany ogniskowe,"youth,adults,families with children",1
+4,1070,20881,"public transit and roads,environmental protection,public space",2339,Kosze na śmieci i ławeczki wzdłuż Rosoła i Ciszewskiego - Ursynów - Ochrona środowiska,"people with disabilities,families with children",1
+5,1100,9000,"education,environmental protection,urban greenery",2275,Budki lęgowe dla ptaków na drzewach wzdłuż ulic osiedlowych SM Na Skraju - ochrona przyrody.,animals,1
+6,1235,402000,"sport,health,public space",2273,Rowerowy plac zabaw w okolicy górki Kazury (Trzech Szczytów) - Pumptrack Warszawa Ursynów,"youth,adults,families with children",1
+7,1302,23050,"education,culture,public space",2190,Przygodowy plac zabaw,"children,youth",1
+8,1079,3000,"public transit and roads,public space",2134,Wybrukowanie dojścia do przystanków Ursynów Płd. 01 przy ul. Ciszewskiego - wyjście z KEN Center,"adults,people with disabilities,families with children",1
+9,400,121000,"sport,health",2068,Ścianki wspinaczkowe zewnętrzne wraz z towarzyszącą infrastrukturą,"children,youth,adults",1
+10,1905,98000,"public space,sport,health",2034,Ścianka wspinaczkowa w parku im. Romana Kozłowskiego,"youth,adults,families with children",1
+11,355,391000,public transit and roads,1941,Bezpieczne przejścia dla pieszych na al. KEN,"adults,seniors,families with children",1
+12,797,39000,"education,culture",1940,Mobilne planetarium do pokazów astronomicznych dla dzieci i młodzieży z Ursynowa,"children,youth,families with children",1
+13,1184,694950,"public space,health,urban greenery",1839,Fontanna w Parku przy Bażantarni,"children,people with disabilities",0
+14,1075,82240,culture,1511,Bezpłatne seanse filmowe dla dzieci,families with children,1
+15,510,286000,education,1435,Miasteczko Ruchu Drogowego,"children,youth,families with children",0
+16,175,150000,urban greenery,1369,Upiększamy ursynowskie ronda,adults,0
+17,1030,114000,"public transit and roads,public space",1270,Oznaczmy dojazdy,"children,adults",1
+18,460,210000,public space,1270,Reksio - wybieg dla psów,None,0
+19,331,10500,sport,1139,Oznaczenie trasy biegu parkrun Warszawa - Ursynów,"adults,children,people with disabilities",1
+20,383,30614,"public transit and roads,environmental protection",1121,Słoneczny Jar,"seniors,families with children",0
+21,638,55000,"sport,health",1110,Zumba - bezpłatne zajęcia dla wszystkich z równoczesnymi zajęciami dla dzieci,"youth,seniors,families with children",0
+22,2043,37500,"public space,urban greenery",1110,Kosmos na Puławskiej! By ursynowski odcinek ulicy Puławskiej stał się przyjaźniejszy mieszkańcom obsiewamy go kosmosem.,"children,youth,adults",0
+23,1084,5250,"education,culture,sport",1069,Co łączy rycerza Andrzeja Ciołka z Julianem Ursynem Niemcewiczem? - wycieczki historyczne po Ursynowie,"children,youth,adults",1
+24,1692,50000,"education,welfare,health",980,"Gra planszowa/zestaw-integracja, ćwiczenie pamięci, funkcji poznawczych, wsparcie rodzin, w których wystąpił udar mózgu/demencja","seniors,people with disabilities,families with children",0
+25,100,5250,"education,culture,sport",972,"Józiek, na pustynię nas dają Balcerkowa podczas eksmisji na blokowiska przy Alternatywy 4- wycieczki po Ursynowie","children,youth,adults",0
+26,2113,40240,"education,culture,public space",972,Wspólne potańcówki ursynowskie – letnie spotkania z tańcami dla mieszkańców,"youth,adults,families with children",0
+27,2338,163700,"culture,welfare,health",930,"Rozgłośnia radiowa Radio Ursynów, z działającym telefonem zaufania jako miejsce pracy dla osób niepełnosprawnych.","adults,students,people with disabilities",0
+28,641,35000,education,874,Szkoła bez obowiązkowych prac domowych,"youth,families with children",0
+29,389,264900,public transit and roads,852,"Budowa chodnika na ul. Karczunkowskiej, odcinek Puławska - Trombity",None,0
+30,586,76000,"public transit and roads,public space,health",769,Ogrzewany przystanek autobusowy,"adults,seniors,students",0
+31,1856,36750,"education,culture",747,"Weź mnie, przeczytaj mnie, czyli dzieci wymieniają się książkami w szkołach na Ursynowie","children,families with children",0
+32,443,14000,"education,public transit and roads",707,"Kurs bezpiecznego przechodzenia przez jezdnię i przejeżdżania przez pasy, plakaty, ulotki, filmy.","children,youth,seniors",0
+33,1309,40000,"education,health",706,Bliżej siebie – dalej od dopalaczy!,"youth,families with children",0
+34,1126,250000,public transit and roads,694,Modernizacja chodnika przy ul. Bartoka przy północnej stronie ulicy.,"seniors,families with children,students",0
+35,816,84700,"education,culture,welfare",615,Pracownia ceramiczna u Księżnej Izabeli,"children,youth,adults",0
+36,1627,19050,education,613,Wspieraj swoje dziecko! Ocenianie kształtujące dla rodziców! - Ursynów,"adults,students",0
+37,1689,60000,"welfare,education,health",601,"Udar mózgu? Demencja? O co chodzi, jak z tym żyć? Nie boimy się! Szkolimy się!","adults,families with children,students",0
+38,1436,740000,"education,sport,health",551,Przykrycie boiska Orlik halą namiotową,"children,youth,adults",0
+39,457,64000,"education,culture,public space",526,Czterdziestolatek. Wystawa plenerowa i trasa turystyczna na 40-lecie Ursynowa.,"youth,adults,seniors",0
+40,2050,50000,"education,culture",521,Warsztaty Modelarskie Made in Warsaw,"children,youth,adults",0
+41,1995,33260,welfare,501,Piękne i zadbane w każdym wieku – kosmetyczne spotkania dla Seniorek z Ursynowa,seniors,0
+42,1887,207160,"education,culture,sport",479,Pełna Kultura - zajęcia kulturalne dla dzieci i młodzieży w Domu Tradycji na Zielonym Ursynowie,"children,youth,families with children",0
+43,2415,769450,"education,culture,welfare",457,Centrum Aktywności Wszelakich - Kuźnia Inspiracji,"youth,seniors,families with children",0
+44,1841,16000,"education,environmental protection,health",422,Czyste powietrze na Ursynowie - cykl spotkań edukacyjnych,"families with children,adults,youth",0
+45,676,33413,"education,culture,public space",395,Narysowana Warszawa - Ursynów,"youth,seniors,families with children",0
+46,854,68950,education,327,Wolna wola – nauka odpierania manipulacji dla mieszkańców Ursynowa,"youth,adults,seniors",0

@@ -1,0 +1,91 @@
+0,project_id,cost,category,votes,name,target,selected
+1,176,98000,"public transit and roads,public space",1916,Stojaki rowerowe na ulicach Ochoty,"children,youth,adults",1
+2,212,50000,"environmental protection,public space,urban greenery",1697,Poszerzenie parku Szczęśliwickiego poprzez wyburzenie nieużywanych szaletów,"children,youth,adults,seniors,people with disabilities",1
+3,186,336750,"environmental protection,urban greenery",1656,Nasadzenia drzew i krzewów na ulicy Szczęśliwickiej,"children,youth,adults",1
+4,138,60000,"public transit and roads,public space,urban greenery",1607,Posadzenie krzewów przyjaznych małym ptakom,"children,youth,adults,seniors,people with disabilities",1
+5,91,430000,"public space,urban greenery",1565,Wymiana ławek w Parku Szczęśliwickim,"children,youth,adults,seniors",1
+6,1144,150000,culture,1558,Zakup nowych zbiorów do bibliotek ochockich,"children,youth,adults,seniors,people with disabilities",1
+7,681,40500,environmental protection,1327,Zimowe dokarmianie ptactwa w parkach Ochoty,adults,1
+8,448,42000,urban greenery,1238,Trawniki ekologiczne na Dickensa,"children,adults,seniors",1
+9,175,100000,"public space,urban greenery",1216,Monitoring w Parku Zachodnim,"children,youth,adults,seniors",1
+10,1423,60000,"environmental protection,public space",1192,Nowe nasadzenia na Rakowcu,None,1
+11,2095,62000,"public transit and roads,public space",1192,Remont chodników i nawierzchni w parku Korotyńskiego,"children,youth,adults,seniors,people with disabilities",1
+12,1978,130000,"public transit and roads,environmental protection,public space",1081,"Brakujące odcinki chodników na Starej Ochocie (Szczęśliwicka, Winnicka, Pasteura, Banacha)","children,youth,adults,seniors,people with disabilities",1
+13,1393,20000,"public transit and roads,public space",1072,Nowe nasadzenia na Rakowcu żywopłoty zamiast słupków,None,1
+14,1040,122500,"public space,urban greenery",1055,Zielona Włodarzewska,"children,youth,adults,seniors,people with disabilities",1
+15,335,260000,"education,public space",1005,Rodzinny ogród zmysłów Na Fortach Korotyńskiego,"children,people with disabilities",1
+16,1450,168000,"education,culture",992,Książkomat dla Ochockich Bibliotek,"children,youth,adults,seniors,people with disabilities",1
+17,130,73100,"culture,public space",939,Mural - Ochota jak ze snów,"children,youth,adults,seniors,people with disabilities",1
+18,243,400000,"education,public space,sport",895,Ścieżka biegowa na Polach Mokotowskich,"children,youth,adults,seniors",1
+19,490,398000,"public transit and roads,public space,sport",874,Remont chodnika na ul. Żwirki i Wigury,"children,youth,adults",0
+20,658,130000,"education,environmental protection,public space",854,"Zazieleniamy ochockie parkany - przy Szkole nr 61, OSiR Ochota oraz utworzenie zielonej ściany na budynku MDK od strony Szczęśliwicka / Białobrzeska, Rokosowska/","children,youth,adults,seniors,people with disabilities",1
+21,1767,15000,sport,850,Joga na Ochocie,"children,youth,adults,seniors,people with disabilities",0
+22,188,70000,"public transit and roads,public space,urban greenery",836,Bezpieczne chodniki,"children,youth,adults,seniors,people with disabilities",0
+23,462,121000,"public transit and roads,public space",793,Przedwojenne latarnie na Mochnackiego,"children,youth,adults,seniors,people with disabilities",0
+24,1508,150000,"environmental protection,public space,urban greenery",793,Eko podwórko Racławicka 156 - pierwsze podwórko z antysmogowym chodnikiem na Ochocie,"children,youth,adults,seniors,people with disabilities",0
+25,1513,29000,"education,culture",784,Kino letnie na Baśniówce,"children,youth,adults,seniors,people with disabilities",0
+26,977,255000,culture,783,Winda w Bibliotece „Pod Skrzydłami”,"seniors,people with disabilities",0
+27,2067,33000,public transit and roads,783,Więcej miejsc parkingowych na Rakowcu,"youth,seniors,people with disabilities",0
+28,616,198000,"public space,urban greenery",749,Zazielenienie i odnowienie nawierzchni łącznika ulicy Opaczewskiej i Dobosza (przejście od Biedronki do Skweru Dobrego Maharadży),"youth,adults,seniors",0
+29,1636,34000,"education,culture,public space",707,Potańcówki w Parku Szczęśliwickim,"children,youth,adults,seniors,people with disabilities",0
+30,422,24300,"education,environmental protection,public space",693,Zazieleniamy ochockie parkany - Szkoła Podstawowa nr 264 przy ulicy Majewskiego,"children,youth,adults,seniors,people with disabilities",0
+31,1378,66000,"public transit and roads,public space",670,Wiaty rowerowe na Rakowcu,None,0
+32,1149,3000,"education,environmental protection,public space",668,Edukacyjny Karmnik Dla Ptaków,"children,youth,adults,seniors",1
+33,1695,350000,"environmental protection,public space,urban greenery",652,Wymiana 40 latarń w parku Wielkopolski i na skwerze Sue Ryder,"children,youth,adults,seniors,people with disabilities",0
+34,2084,45500,"public transit and roads,public space,urban greenery",652,"Bezpieczne i przyjazne przejście dla pieszych przez ul. Pasteura między budynkami Wydziału Matematyki, Informatyki i Mechaniki UW oraz Wydziału Fizyki UW","youth,adults,seniors,people with disabilities",0
+35,1080,151863,"public space,sport,urban greenery",634,Zielony Drobiazg dla Ochoty- rewitalizacja zaniedbanego skwerku,"children,youth,adults,seniors",0
+36,307,150000,"education,environmental protection,public space",632,"Zielone podwórko pomiędzy Częstochowską 16/18, Częstochowską 20, Białobrzeską 40A,Nieborowską 11/13/15, Częstochowska 14","children,youth,adults,seniors,people with disabilities",0
+37,309,210000,"public transit and roads,environmental protection,public space",623,Zielony zakątek - podwórko pomiędzy budynkami Częstochowska 7/9 Częstochowska 5 oraz Baśniowa 8 i Baśniowa 6,"children,youth,adults,seniors,people with disabilities",0
+38,394,21000,"education,culture,environmental protection",590,"„Na ratunek naszej planecie” – spotkania w Bibliotece „Białobrzeska”. Spotkania z dziennikarzami, podróżnikami, pisarzami angażującymi się w kwestie dotyczące ekologii oraz cykl spotkań poświęcony przybliżeniu idei wegetarianizmu, weganizmu, freeganizmu, zero waste.","children,youth,adults,seniors",0
+39,755,4700,"education,culture",578,Wieczory kultur świata,"children,youth,adults,seniors",1
+40,125,415625,"public transit and roads,public space,urban greenery",568,Remont chodnika na ul. Wawelskiej – część 2 (Kolonia Staszica),"children,youth,adults,seniors,people with disabilities",0
+41,1089,260000,"environmental protection,public space,urban greenery",566,"Rewitalizacja podwórka pomiędzy Budynkami Białobrzeska 29,31,33,35 oraz Lelechowska 5","children,youth,adults,seniors,people with disabilities",0
+42,769,98500,"education,culture",545,Spotkania z muzyką klasyczną,"youth,adults,seniors,people with disabilities",0
+43,323,11800,"education,culture,public space",529,Czytniki e-booków i e-booki w Przystanku Książka,"youth,adults,seniors,people with disabilities",0
+44,229,40000,"education,public space,sport",528,Oświetlenie wielofuncyjnego boiska na Placu Baśniowym,"children,youth,adults",0
+45,342,154800,"public transit and roads,public space",517,Stare płyty do lamusa - remont chodnika na Mołdawskiej,"children,youth,adults,seniors,people with disabilities",0
+46,1270,15000,"education,environmental protection",491,"Więcej warzyw, poproszę! Warsztaty kuchni roślinnej dla rodzin","children,youth,adults,seniors",0
+47,1467,36000,"education,culture,public space",489,Zmieńmy Bibliotekę Przy Baleya w miejsce realizacji naszych pasji i potrzeb kulturalnych,"children,youth,adults,seniors",0
+48,1718,8300,welfare,486,Poznaj partnera lub przyjaciela,"adults,people with disabilities",0
+49,1752,12000,sport,485,Ochockie warsztaty jazdy na rolkach,"children,youth,adults",0
+50,1420,16000,"public space,sport",471,Wielofunkcyjny Stół Sportowy,"children,youth,adults,seniors,people with disabilities",0
+51,2077,25000,public transit and roads,461,Doświetlenie skrzyżowania ulic Sąchockiej i Racławickiej w tym przejścia dla pieszych,"children,youth,adults,seniors,people with disabilities",0
+52,322,18600,"education,culture,public space",458,Przedstawienia teatralne dla dzieci w Bibliotece,children,0
+53,978,218000,public transit and roads,453,"Remont chodnika, ulica Drygały, dojście do stacji PKP Rakowiec","children,youth,adults,seniors,people with disabilities",0
+54,1765,28000,"education,culture,environmental protection",452,Kreatywnie i aktywnie - warsztaty rękodzielnicze,"youth,adults,seniors,people with disabilities",0
+55,257,40000,"education,environmental protection,public space",445,Zazieleniamy ochockie parkany: ogrodzenie wokół Przedszkola nr 100,"children,youth,adults,seniors,people with disabilities",0
+56,974,20050,"education,culture",442,Graffiti w Bibliotece „Pod Skrzydłami”,"children,youth,adults,seniors,people with disabilities",0
+57,228,14840,"education,culture,welfare",442,Kino dyskusyjne dla malucha,children,0
+58,2073,122000,"public transit and roads,public space",440,Zielone podwórko Bohdanowicza 2,"children,seniors",0
+59,124,510046,"public transit and roads,public space,urban greenery",437,Remont chodnika na ul. Wawelskiej – część 1 (Kolonia Lubeckiego),"children,youth,adults,seniors,people with disabilities",0
+60,612,403200,"public transit and roads,public space",437,Remonty chodników na lokalnych ulicach Starej Ochoty – część 5: Asnyka i Korzeniowskiego,"children,youth,adults,seniors,people with disabilities",0
+61,1606,25000,"education,culture,public space",431,„Bajanie na polanie” w Parku Szczęśliwickim - cykl imprez dla dzieci,children,0
+62,787,72000,"education,environmental protection,sport",431,Wiaty rowerowe przy Szkole podstawowej nr 10,"children,youth,adults,seniors",0
+63,610,346800,"public transit and roads,public space",420,Remonty chodników na lokalnych ulicach Starej Ochoty – część 3: Joteyki (odcinek wschodni) i Reja (odcinek zachodni),"children,youth,adults,seniors,people with disabilities",0
+64,775,12800,"education,culture,public space",412,Z Ochotą przez historię - cykl prelekcji nt. dzielnicy Ochota,"youth,adults,seniors",0
+65,1619,120000,culture,410,„Wieczory z klimatem” - cykl koncertów/recitali znanych artystów,"children,youth,adults,seniors,people with disabilities",0
+66,338,240000,public space,386,Jaśniej w Malickim - dodatkowe latarnie,"children,youth,adults,seniors,people with disabilities",0
+67,1328,28000,"public transit and roads,public space",383,Doświetlenie podwórek na Rakowcu Racławicka 150,None,0
+68,1239,9600,"education,culture,welfare",349,Czytanie na Dywanie - cykl zajęć dla dzieci w bibliotece,"children,families with children",0
+69,774,173300,"education,culture,welfare",349,Komputer dla dużych i małych,"youth,adults,seniors,people with disabilities",0
+70,2094,12650,"education,culture,environmental protection",349,Ochoccy Rzemieślnicy i drugie życie przedmiotów - gra miejska,"children,youth,adults,seniors",0
+71,1413,20000,"public transit and roads,public space",345,Remont chodnika Racławicka 150,None,0
+72,361,3000,"education,environmental protection,public space",338,Zazieleniamy ochockie parkany-Przedszkole nr 239 Al.Jerozolimskie 117A,"children,youth,adults,seniors,people with disabilities",0
+73,609,268800,"public transit and roads,public space",337,Remonty chodników na lokalnych ulicach Starej Ochoty – część 2: Dantyszka (odcinek zachodni) i Supińskiego,"children,youth,adults,seniors,people with disabilities",0
+74,1036,390000,"public transit and roads,environmental protection,public space",328,Odczarowane podwórko - ul. Częstochowska 25/27,"children,youth,adults,seniors,people with disabilities",0
+75,95,72900,"education,public transit and roads,environmental protection",321,Zagospodarowanie pasa zieleni przed SP 152,"children,youth,adults",0
+76,2068,45000,"public transit and roads,public space",315,Doświetlenie ciągów pieszych na Rakowcu Grzeszczyka 4 i 6,None,0
+77,1437,120000,"public transit and roads,public space",313,Remont chodnika Racławicka 154,None,0
+78,931,467000,public space,312,Estetyka ważna sprawa - wymiana ogrodzenia w SP 10 przy ul. Jasielskiej,"children,youth,adults,seniors,people with disabilities",0
+79,1487,380000,"culture,environmental protection,public space",309,Pasaż Braci Łopieńskich cały w kwiatach,"children,youth,adults,seniors,people with disabilities",0
+80,611,352000,"public transit and roads,public space",297,Remonty chodników na lokalnych ulicach Starej Ochoty – część 4: Ładysława z Gielniowa (odcinek zachodni) i Zapolskiej,"children,youth,adults,seniors,people with disabilities",0
+81,131,23825,urban greenery,290,Rewitalizacja zieleni od ulicy Sękocińskiej 17,None,0
+82,1126,42000,"education,culture",284,"Biblioteka opinii – spotkania z autorami, publicystami, ludźmi kultury","children,youth,adults,seniors",0
+83,1811,11000,sport,265,Fitness w Parku Malickiego,"children,youth,adults,seniors,people with disabilities",0
+84,1545,151500,"environmental protection,public space,urban greenery",264,Renowacja i doświetlenie podwórza przy ul. Urbanistów,"children,youth,adults,seniors,people with disabilities",0
+85,1803,30000,sport,241,Wakacje ze sportem na placu Baśniowym,"children,youth,adults,seniors,people with disabilities",0
+86,608,232400,"public transit and roads,public space",241,Remonty chodników na lokalnych ulicach Starej Ochoty – część 1: Rapackiego i Reja (odcinek wschodni),"children,youth,adults,seniors,people with disabilities",0
+87,694,9500,"education,culture,public space",200,Konkurs Literacki,"youth,adults,seniors",0
+88,1242,7300,"culture,public space",175,"Slam poetycki w Bibliotece. Spotkania Ludzi Amatorów Mowy, czyli Poeci na Start","youth,adults,seniors",0
+89,2071,25000,"education,culture,sport",160,II turniej piłkarski na Rakowcu (rodzinny piknik sportowy- dzień sportu na Rakowcu),"children,youth,adults",0
+90,1134,42000,"education,culture",159,Youtuberzy w Bibliotece,"children,youth,adults,seniors",0
